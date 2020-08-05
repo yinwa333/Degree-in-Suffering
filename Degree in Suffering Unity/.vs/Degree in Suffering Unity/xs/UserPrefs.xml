@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{761EC5C9-041B-48AE-30EC-DD0C91D2AE71}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/1Freshy/AddButtons.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Start Menu/SceneLoader.cs" Line="31" Column="28" />
+      <File FileName="Assets/Scripts/Start Menu/OptionsMenu.cs" Line="12" Column="45" />
+      <File FileName="Assets/Scripts/1Freshy/AddButtons.cs" Line="7" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="6b88b442-f9e1-4aea-bf34-c73933f4c8c8" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
