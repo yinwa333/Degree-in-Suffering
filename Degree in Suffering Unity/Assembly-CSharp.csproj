@@ -69,6 +69,11 @@
     <Compile Include="Assets\Scripts\1Freshy\SceneController.cs" />
     <Compile Include="Assets\Scripts\2Softy\CameraController.cs" />
     <Compile Include="Assets\Scripts\2Softy\PlayerController.cs" />
+    <Compile Include="Assets\Scripts\4OldPerson\HybridPlatformer.cs" />
+    <Compile Include="Assets\Scripts\4OldPerson\ModProjectDemoScripts\CameraFollow.cs" />
+    <Compile Include="Assets\Scripts\4OldPerson\ModProjectDemoScripts\CollisionTriggersText.cs" />
+    <Compile Include="Assets\Scripts\4OldPerson\ModProjectDemoScripts\PlatformerController.cs" />
+    <Compile Include="Assets\Scripts\4OldPerson\ModProjectDemoScripts\TopDownCharacterController.cs" />
     <Compile Include="Assets\Scripts\Start Menu\OptionsMenu.cs" />
     <Compile Include="Assets\Scripts\Start Menu\SceneLoader.cs" />
     <None Include="Assets\TextMesh Pro\Resources\Shaders\TMPro.cginc" />

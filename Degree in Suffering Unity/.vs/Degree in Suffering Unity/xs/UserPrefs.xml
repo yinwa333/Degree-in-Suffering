@@ -1,8 +1,10 @@
 ﻿<Properties StartupConfiguration="{761EC5C9-041B-48AE-30EC-DD0C91D2AE71}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/2Softy/CameraController.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/4OldPerson/ModProjectDemoScripts/PlatformerController.cs">
     <Files>
       <File FileName="Assets/Scripts/2Softy/PlayerController.cs" Line="31" Column="68" />
-      <File FileName="Assets/Scripts/2Softy/CameraController.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/2Softy/CameraController.cs" Line="26" Column="90" />
+      <File FileName="Assets/Scripts/4OldPerson/ModProjectDemoScripts/PlatformerController.cs" Line="18" Column="15" />
+      <File FileName="Assets/Scripts/4OldPerson/HybridPlatformer.cs" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
