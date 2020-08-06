@@ -15,13 +15,13 @@ public class AddButtons : MonoBehaviour
     private void Awake()
     {
         //18 Buttons
-        for (int i = 0; i < 18; i++)
-        {
+        //for (int i = 0; i < 18; i++)
+        //{
             //Instantiate creates a COPY of the thing you provide
-            GameObject button = Instantiate(btn);
-            button.name = "" + i;
-            button.transform.SetParent(puzzleField, false);
-        }
+            //GameObject button = Instantiate(btn);
+            //button.name = "" + i;
+            //button.transform.SetParent(puzzleField, false);
+        //}
 
     }
 

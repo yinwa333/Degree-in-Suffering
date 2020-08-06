@@ -1,0 +1,362 @@
+fileFormatVersion: 2
+guid: 0def9e11a35094a7bb27a9e718c0103c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -702967248786961596
+    second: Screen Shot 2020-08-05 at 3.19.21 PM_0
+  - first:
+      213: 2053032220280396902
+    second: Screen Shot 2020-08-05 at 3.19.21 PM_1
+  - first:
+      213: -8073152576740882635
+    second: Screen Shot 2020-08-05 at 3.19.21 PM_2
+  - first:
+      213: 5785146673356366851
+    second: Screen Shot 2020-08-05 at 3.19.21 PM_3
+  - first:
+      213: -6617196204225129403
+    second: Screen Shot 2020-08-05 at 3.19.21 PM_4
+  - first:
+      213: -6573876405498421487
+    second: Screen Shot 2020-08-05 at 3.19.21 PM_5
+  - first:
+      213: 8100843921299744659
+    second: Screen Shot 2020-08-05 at 3.19.21 PM_6
+  - first:
+      213: -8721455465275433424
+    second: Screen Shot 2020-08-05 at 3.19.21 PM_7
+  - first:
+      213: 1582458027386054823
+    second: Screen Shot 2020-08-05 at 3.19.21 PM_8
+  - first:
+      213: -8092766207697222631
+    second: Screen Shot 2020-08-05 at 3.19.21 PM_9
+  - first:
+      213: 2888219146343553310
+    second: Screen Shot 2020-08-05 at 3.19.21 PM_10
+  - first:
+      213: -1790633818481245221
+    second: Screen Shot 2020-08-05 at 3.19.21 PM_11
+  - first:
+      213: -4305673489145606452
+    second: Screen Shot 2020-08-05 at 3.19.21 PM_12
+  - first:
+      213: -6749517923674702176
+    second: Screen Shot 2020-08-05 at 3.19.21 PM_13
+  - first:
+      213: -8241611116087477923
+    second: Screen Shot 2020-08-05 at 3.19.21 PM_14
+  - first:
+      213: 2052691392867986034
+    second: Screen Shot 2020-08-05 at 3.19.21 PM_15
+  - first:
+      213: -2449187070502792849
+    second: Screen Shot 2020-08-05 at 3.19.21 PM_16
+  - first:
+      213: 8607716348510002786
+    second: Screen Shot 2020-08-05 at 3.19.21 PM_17
+  - first:
+      213: 6555160623922866899
+    second: Screen Shot 2020-08-05 at 3.19.21 PM_18
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Screen Shot 2020-08-05 at 3.19.21 PM_0
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 438
+        width: 115
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44bc15ff20f8e36f0800000000000000
+      internalID: -702967248786961596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Screen Shot 2020-08-05 at 3.19.21 PM_1
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 438
+        width: 111
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66c9e3a4de5dd7c10800000000000000
+      internalID: 2053032220280396902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Screen Shot 2020-08-05 at 3.19.21 PM_2
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 438
+        width: 110
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53784dd318666ff80800000000000000
+      internalID: -8073152576740882635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Screen Shot 2020-08-05 at 3.19.21 PM_3
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 439
+        width: 113
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30460f69f38f84050800000000000000
+      internalID: 5785146673356366851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Screen Shot 2020-08-05 at 3.19.21 PM_4
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 439
+        width: 114
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 3, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54419169c1ffa24a0800000000000000
+      internalID: -6617196204225129403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Screen Shot 2020-08-05 at 3.19.21 PM_5
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 438
+        width: 115
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11fd1f43d36e4c4a0800000000000000
+      internalID: -6573876405498421487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Screen Shot 2020-08-05 at 3.19.21 PM_6
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 232
+        width: 114
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39724f550aafb6070800000000000000
+      internalID: 8100843921299744659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Screen Shot 2020-08-05 at 3.19.21 PM_7
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 235
+        width: 116
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03e5edb667a27f680800000000000000
+      internalID: -8721455465275433424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Screen Shot 2020-08-05 at 3.19.21 PM_8
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 232
+        width: 112
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a8af42113506f510800000000000000
+      internalID: 1582458027386054823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -11,10 +11,11 @@ GameObject:
   - component: {fileID: 7886537021129782081}
   - component: {fileID: 7886537021129782094}
   - component: {fileID: 7886537021129782095}
+  - component: {fileID: 3968010182244985799}
   - component: {fileID: 7886537021129782080}
   m_Layer: 0
   m_Name: Button
-  m_TagString: Untagged
+  m_TagString: PuzzleCard
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -75,6 +76,21 @@ MonoBehaviour:
   m_FillOrigin: 0
   m_UseSpriteMesh: 0
   m_PixelsPerUnitMultiplier: 1
+--- !u!114 &3968010182244985799
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7886537021129782082}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e19747de3f5aca642ab2be37e372fb86, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_EffectColor: {r: 0, g: 0, b: 0, a: 0.5}
+  m_EffectDistance: {x: 1, y: -1}
+  m_UseGraphicAlpha: 1
 --- !u!114 &7886537021129782080
 MonoBehaviour:
   m_ObjectHideFlags: 0
